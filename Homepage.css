@@ -1,0 +1,229 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "barlow";
+    box-sizing: border-box;
+}
+body {
+    background-color: #0b0b0b;
+  }
+nav{
+    display: flex;
+    align-items: center;
+    padding: 10px 1%;
+}
+nav .logo{
+    box-sizing: border-box;
+    width:50px;
+}
+nav .logo1{
+    box-sizing: border-box;
+    width:20px;
+}
+nav ul{
+    flex: 1;
+    text-align: right;
+
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 40px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:white
+}
+button{
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    margin: 0 40px;
+    outline: 0;
+    border: 0;
+}
+.button1
+{
+    background-color: rgb(19, 150, 232);
+    color: white;
+}
+.button2
+{
+    background-color: #131313;
+    color: white;
+    width: 55px;
+}
+.button3
+{
+    background-color: #131313;
+    color: white;
+    padding: 4px;
+    width: 50px;
+    border-color: white;
+    border-width: 0.5px;
+}
+.intro
+{
+    padding: 10px 1%;
+    padding-top: 65px;
+    color: white;
+    text-align: center;
+
+}
+.intro .logo
+{
+    width:50px;
+    float: left;
+    margin-left: 550px;
+    padding: 0px;
+}
+.intro h1
+{
+    padding-left: 0px;
+    margin-right: 500px;
+}
+.intro h2
+{
+    margin-top: 50px;
+    font-size: 60px;
+    margin-left: 70px;
+    background: linear-gradient(to right, #f32170,
+    #ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.heading2
+{
+    padding: 10px 1%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 70px;
+
+}
+.heading3
+{
+    color: white;
+    font-size: 28px;
+    padding-right: 80px;
+    padding-left: 15px;
+}
+.body1
+{
+    color: white;
+    margin-top: 40px;
+    padding-left: 15px;
+}
+.body1 h2
+{
+    font-size: 30px;
+}
+.body1 p1
+{
+    font-size: 20px;
+}
+.body1 .img2
+{
+    float: right;
+    margin-right: 120px;
+}
+.thirdframe
+{
+    margin-top: 100px;
+    color: white;
+    padding-right: 120px;
+}
+.thirdframe h1{ font-size: 30px;}
+.thirdframe p1{ font-size: 20px;}
+.thirdframe .img3
+{
+    float: left;
+    padding-right: 40px;
+    padding-left: 15px;
+}
+.fourthframe
+{
+    margin-top: 100px;
+    color: white;
+    padding-right: 120px;
+}
+.fourthframe h1{ font-size: 30px;}
+.fourthframe p1{ font-size: 20px;}
+.fourthframe .img4
+{
+    float: left;
+    padding-right: 40px;
+    padding-left: 15px;
+}
+.fifthframe
+{
+    margin-top: 100px;
+    color: white;
+    padding-right: 120px;
+}
+.fifthframe h1{ font-size: 30px;}
+.fifthframe p1{ font-size: 20px;}
+.fifthframe .img5
+{
+    float: left;
+    padding-right: 40px;
+    padding-left: 15px;
+}
+.sixthframe
+{
+    margin-top: 100px;
+    color: white;
+    padding-right: 120px;
+}
+.tsixthframe h1{ font-size: 30px;}
+.sixthframe p1{ font-size: 20px;}
+.sixthframe .img6
+{
+    float: left;
+    padding-right: 40px;
+    padding-left: 15px;
+}
+.foot
+{
+    margin-top: 70px;
+    background-color:  #1F1F1F;
+    color: white;
+    padding-top: 15px;
+    display: flex;
+
+}
+.title
+{
+    padding-left: 15px;
+}
+.List
+{
+    margin-left: 440px;
+}
+.List ul 
+{
+    list-style-type: none;
+}
+ul .listtitle
+{
+    font-size: 20px;
+}
+ul li
+{
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+.email
+{
+    margin-left: 300px;
+    font-size: 12px;
+}
+.email h3
+{
+    font-size: 20px;
+    background: linear-gradient(to right, #f32170,
+    #ff6b08, #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
